@@ -41,7 +41,7 @@
 ![](https://i.imgur.com/DseMyNm.png)
 ------
 **Orange to Apple**
-
+-----
 ![](https://i.imgur.com/40GBIhT.png)
 ![](https://i.imgur.com/FhNp7Ls.png)
 
@@ -85,15 +85,20 @@
 <img src="https://i.imgur.com/B4z1O3y.jpg" width="255"> <img src="https://i.imgur.com/6WsqlBr.jpg" width="255">
 
 <img src="https://i.imgur.com/qaGd3Lu.jpg" width="255"> <img src="https://i.imgur.com/RZTp1d1.jpg" width="255">
-
-------
+-----
 **Orange To Apple**
--------
+
 <img src="https://i.imgur.com/vqCuyuG.jpg" width="255"> <img src="https://i.imgur.com/HlTjJhj.jpg" width="255">
 
 <img src="https://i.imgur.com/r6f0u48.jpg" width="255"> <img src="https://i.imgur.com/nbQoezF.jpg" width="255">
 
-------
+## **4.Compare**
+1.Performance ranking:
+cycleGan > DeepArt  >  Super fast color transfer
+2.Training times cost:
+cycleGan > DeepArt  >  Super fast color transfer
+3.Training set sample size:
+cycleGan >> DeepArt = Super fast color transfer
 
 <br/><br/>
 
