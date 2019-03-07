@@ -116,7 +116,7 @@ cycleGan can make high quality style transfer image, But at the same time It nee
 
 DeepArt can do style transfer image with only a pair of images(content & style), But the result seems not so good.Thus the performance was limited
 
-Super fast color transfer seems can't do style transfer, because It just try to tune the Hue of whole content image base on the style image
+Super fast color transfer seems can't do style transfer, because It just try to tune the Lab color space of whole content image base on the style image
 
 <br/><br/>
 
