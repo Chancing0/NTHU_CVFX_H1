@@ -23,13 +23,20 @@
 ### **2.1 personal image**
 **Orange**
 ------
-![](https://i.imgur.com/yrmL0HZ.png =255x255) 
-![](https://i.imgur.com/9rlTn3H.png =255x255)
+
+![](https://i.imgur.com/yrmL0HZ.png | width=48)
+
+![](https://i.imgur.com/9rlTn3H.png | width=48)
+
 ------
+
 **Apple**
+
 ------
-![](https://i.imgur.com/VOJ9ItO.png =255x255) 
-![](https://i.imgur.com/slMq9vY.png =255x255)
+
+![](https://i.imgur.com/VOJ9ItO.png | width=48)
+
+![](https://i.imgur.com/slMq9vY.png | width=48)
 
 
 ### **2.2 Inference Result**
