@@ -108,7 +108,7 @@ cycleGan >> DeepArt  >  Super fast color transfer
 
 cycleGan >> DeepArt > Super fast color transfer
 
-**Conclusion:**
+### **Conclusion:**
 
 cycleGan can make high quality style transfer image, But at the same time It need more training data and It spent more time.
 
