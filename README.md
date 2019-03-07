@@ -58,10 +58,10 @@
 ### **3.1 Super fast color transfer between images**
 **Apple to Orange**
 
-<img src="https://i.imgur.com/Pvgks4U.jpg " width="255">
-<img src="https://i.imgur.com/CTzRhin.jpg " width="255">
-<img src="https://i.imgur.com/qnJmFBt.jpg " width="255">
-<img src="https://i.imgur.com/Vkn8Gqo.jpg " width="255">
+<img src="https://i.imgur.com/Pvgks4U.jpg " width="255"> <img src="https://i.imgur.com/CTzRhin.jpg " width="255">
+
+<img src="https://i.imgur.com/qnJmFBt.jpg " width="255"> <img src="https://i.imgur.com/Vkn8Gqo.jpg " width="255">
+
 -----
 **Orange to Apple**
 
