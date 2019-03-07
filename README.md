@@ -1,9 +1,4 @@
-# NTHU_CVFX_H1_Team20
 
-```
-107065469 蘇文杰
-107065466 陳子軼
-```
 # Outline
 **1.Training cycleGAN**
 
