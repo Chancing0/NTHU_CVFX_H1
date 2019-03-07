@@ -98,7 +98,7 @@ cycleGan > DeepArt  >  Super fast color transfer
 
 3.Training set sample size:
 
-cycleGan >> DeepArt = Super fast color transfer
+cycleGan >> DeepArt > Super fast color transfer
 
 <br/><br/>
 
