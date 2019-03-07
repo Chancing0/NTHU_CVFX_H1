@@ -94,10 +94,15 @@
 
 ## **4.Compare**
 1.Performance ranking:
+
 cycleGan > DeepArt  >  Super fast color transfer
+
 2.Training times cost:
+
 cycleGan > DeepArt  >  Super fast color transfer
+
 3.Training set sample size:
+
 cycleGan >> DeepArt = Super fast color transfer
 
 <br/><br/>
