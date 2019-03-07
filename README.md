@@ -6,7 +6,7 @@
 
 **3.Other Two methods**
 
-**4.Compare**
+**4.Compare & Conclusion**
 
 ## 1.Training cycleGAN
 ![](https://i.imgur.com/HviTFwq.png)
@@ -67,6 +67,14 @@
 
 **Architecture**
 
+- This paper use vgg net as his network,and set two different kinds of loss function.One of them is style loss，and another one is content loss。
+
+- set content loss to maintain same object between output image and source image.Such as building,tree whatever.
+
+- set style loss to maintain same picture style between output image and style image.
+
+- so the totle loss function is the addiction of above two loss funcions.
+
 <img src="https://i.imgur.com/DuXomab.png" width="455">
 
 **Loss Function:**
@@ -87,7 +95,7 @@
 
 <img src="https://i.imgur.com/r6f0u48.jpg" width="255"> <img src="https://i.imgur.com/nbQoezF.jpg" width="255">
 
-## **4.Compare**
+## **4.Compare & Conclusion**
 1.Performance ranking:
 
 cycleGan > DeepArt  >>  Super fast color transfer
@@ -102,7 +110,7 @@ cycleGan >> DeepArt > Super fast color transfer
 
 **Conclusion:**
 
-cycleGan can make high quality style transfer image, But at the same time It need more training data and spent more time.
+cycleGan can make high quality style transfer image, But at the same time It need more training data and It spent more time.
 
 DeepArt can do style transfer image with only a pair of images(content & style), But the result seems not so good.Thus the performance was limited
 
