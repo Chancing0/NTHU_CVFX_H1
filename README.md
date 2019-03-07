@@ -65,10 +65,10 @@
 -----
 **Orange to Apple**
 
-<img src="https://i.imgur.com/2B3fTCz.jpg " width="255">
-<img src="https://i.imgur.com/iHJaU6U.jpg " width="255">
-<img src="https://i.imgur.com/5H2TERx.jpg" width="255">
-<img src="https://i.imgur.com/GoxrfvA.jpg " width="255">
+<img src="https://i.imgur.com/2B3fTCz.jpg " width="255"> <img src="https://i.imgur.com/iHJaU6U.jpg " width="255">
+
+<img src="https://i.imgur.com/5H2TERx.jpg" width="255"> <img src="https://i.imgur.com/GoxrfvA.jpg " width="255">
+
 
 
 ### **3.2 [DeepArt](https://deepart.io/#)**
